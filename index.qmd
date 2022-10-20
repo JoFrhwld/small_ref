@@ -1,0 +1,6 @@
+---
+title: "small_ref"
+bibliography: references.bib
+---
+
+This is a test of references in submodules [@Kuhn2012]
